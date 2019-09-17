@@ -4,5 +4,6 @@ adverbs = adverbs.concat([
     'coyly',
     'swiftly',
     'gingerly',
-    'sparingly'
+    'sparingly',
+    'curtly'
 ]);
